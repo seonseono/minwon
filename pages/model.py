@@ -1,9 +1,8 @@
 import streamlit as st
 
-# st.set_page_config(
-#     page_title="국민신문고 민원 분류 자동화 ",
-#     page_icon="🔖",
-#     layout="wide",
-# )
+st.set_page_config(
+    page_title="모델 예측 결과",
+    layout="wide",
+)
 
-st.markdown("# 모델 결과")
+st.markdown("# 모델 예측 결과")
